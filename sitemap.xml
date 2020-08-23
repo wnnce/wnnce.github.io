@@ -65,14 +65,14 @@
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/tags/index-10.html</loc>
+    <loc>https://blog.xinnnn.cn/tags/index-2.html</loc>
     
     <lastmod>2020-08-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/tags/index-2.html</loc>
+    <loc>https://blog.xinnnn.cn/tags/index-10.html</loc>
     
     <lastmod>2020-08-23</lastmod>
     
@@ -128,14 +128,14 @@
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/categories/index-1.html</loc>
+    <loc>https://blog.xinnnn.cn/categories/index-2.html</loc>
     
     <lastmod>2020-08-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/categories/index-2.html</loc>
+    <loc>https://blog.xinnnn.cn/categories/index-1.html</loc>
     
     <lastmod>2020-08-23</lastmod>
     
@@ -198,14 +198,14 @@
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/2020/03/07/nginx%E9%85%8D%E7%BD%AE%E5%A4%9A%E5%9F%9F%E5%90%8D/</loc>
+    <loc>https://blog.xinnnn.cn/2020/02/25/nginx%E5%AE%89%E8%A3%85ssl/</loc>
     
     <lastmod>2020-08-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/2020/02/25/nginx%E5%AE%89%E8%A3%85ssl/</loc>
+    <loc>https://blog.xinnnn.cn/2020/03/07/nginx%E9%85%8D%E7%BD%AE%E5%A4%9A%E5%9F%9F%E5%90%8D/</loc>
     
     <lastmod>2020-08-23</lastmod>
     
@@ -254,14 +254,14 @@
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/2020/01/24/V2ray/</loc>
+    <loc>https://blog.xinnnn.cn/2020/01/25/bbr/</loc>
     
     <lastmod>2020-08-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/2020/01/25/bbr/</loc>
+    <loc>https://blog.xinnnn.cn/2020/01/24/V2ray/</loc>
     
     <lastmod>2020-08-23</lastmod>
     
@@ -305,13 +305,6 @@
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/tags/%E7%BF%BB%E5%A2%99/</loc>
-    <lastmod>2020-08-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.xinnnn.cn/tags/%E7%BD%91%E7%BB%9C%E5%8A%A0%E9%80%9F/</loc>
     <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
@@ -319,7 +312,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/tags/Hexo/</loc>
+    <loc>https://blog.xinnnn.cn/tags/%E7%BF%BB%E5%A2%99/</loc>
     <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -327,6 +320,13 @@
   
   <url>
     <loc>https://blog.xinnnn.cn/tags/MarkDown/</loc>
+    <lastmod>2020-08-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xinnnn.cn/tags/Hexo/</loc>
     <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
