@@ -79,14 +79,14 @@
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/tags/index-3.html</loc>
+    <loc>https://blog.xinnnn.cn/tags/index-2.html</loc>
     
     <lastmod>2020-08-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/tags/index-2.html</loc>
+    <loc>https://blog.xinnnn.cn/tags/index-3.html</loc>
     
     <lastmod>2020-08-23</lastmod>
     
@@ -107,13 +107,6 @@
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/categories/index.html</loc>
-    
-    <lastmod>2020-08-23</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.xinnnn.cn/categories/index-3.html</loc>
     
     <lastmod>2020-08-23</lastmod>
@@ -128,14 +121,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/categories/index-1.html</loc>
-    
-    <lastmod>2020-08-23</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.xinnnn.cn/categories/index-2.html</loc>
+    <loc>https://blog.xinnnn.cn/categories/index.html</loc>
     
     <lastmod>2020-08-23</lastmod>
     
@@ -149,7 +135,14 @@
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/2020/03/06/%E7%BD%91%E6%98%93%E4%BA%914/</loc>
+    <loc>https://blog.xinnnn.cn/categories/index-2.html</loc>
+    
+    <lastmod>2020-08-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.xinnnn.cn/categories/index-1.html</loc>
     
     <lastmod>2020-08-23</lastmod>
     
@@ -157,6 +150,13 @@
   
   <url>
     <loc>https://blog.xinnnn.cn/2020/02/23/%E7%BD%91%E6%98%93%E4%BA%913/</loc>
+    
+    <lastmod>2020-08-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.xinnnn.cn/2020/03/06/%E7%BD%91%E6%98%93%E4%BA%914/</loc>
     
     <lastmod>2020-08-23</lastmod>
     
@@ -205,13 +205,6 @@
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/2020/03/07/nginx%E9%85%8D%E7%BD%AE%E5%A4%9A%E5%9F%9F%E5%90%8D/</loc>
-    
-    <lastmod>2020-08-23</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.xinnnn.cn/2020/02/25/nginx%E5%AE%89%E8%A3%85ssl/</loc>
     
     <lastmod>2020-08-23</lastmod>
@@ -220,6 +213,13 @@
   
   <url>
     <loc>https://blog.xinnnn.cn/2020/01/28/%E4%B8%89%E5%B1%82%E4%BA%A4%E6%8D%A2%E6%9C%BA%E8%B7%A8VLAN/</loc>
+    
+    <lastmod>2020-08-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.xinnnn.cn/2020/03/07/nginx%E9%85%8D%E7%BD%AE%E5%A4%9A%E5%9F%9F%E5%90%8D/</loc>
     
     <lastmod>2020-08-23</lastmod>
     
