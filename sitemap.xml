@@ -121,14 +121,14 @@
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/categories/index-1.html</loc>
+    <loc>https://blog.xinnnn.cn/about/index.html</loc>
     
     <lastmod>2020-08-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/about/index.html</loc>
+    <loc>https://blog.xinnnn.cn/categories/index-1.html</loc>
     
     <lastmod>2020-08-23</lastmod>
     
@@ -142,13 +142,6 @@
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/2020/02/23/%E7%BD%91%E6%98%93%E4%BA%913/</loc>
-    
-    <lastmod>2020-08-23</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.xinnnn.cn/2020/03/06/%E7%BD%91%E6%98%93%E4%BA%914/</loc>
     
     <lastmod>2020-08-23</lastmod>
@@ -156,7 +149,7 @@
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/2020/02/02/%E7%BD%91%E6%98%93%E4%BA%912/</loc>
+    <loc>https://blog.xinnnn.cn/2020/02/23/%E7%BD%91%E6%98%93%E4%BA%913/</loc>
     
     <lastmod>2020-08-23</lastmod>
     
@@ -164,6 +157,13 @@
   
   <url>
     <loc>https://blog.xinnnn.cn/2020/01/24/%E7%BD%91%E6%98%93%E4%BA%91/</loc>
+    
+    <lastmod>2020-08-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.xinnnn.cn/2020/02/02/%E7%BD%91%E6%98%93%E4%BA%912/</loc>
     
     <lastmod>2020-08-23</lastmod>
     
@@ -198,14 +198,14 @@
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/2020/02/25/nginx%E5%AE%89%E8%A3%85ssl/</loc>
+    <loc>https://blog.xinnnn.cn/2020/03/07/nginx%E9%85%8D%E7%BD%AE%E5%A4%9A%E5%9F%9F%E5%90%8D/</loc>
     
     <lastmod>2020-08-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/2020/03/07/nginx%E9%85%8D%E7%BD%AE%E5%A4%9A%E5%9F%9F%E5%90%8D/</loc>
+    <loc>https://blog.xinnnn.cn/2020/02/25/nginx%E5%AE%89%E8%A3%85ssl/</loc>
     
     <lastmod>2020-08-23</lastmod>
     
@@ -370,14 +370,14 @@
 
   
   <url>
-    <loc>https://blog.xinnnn.cn/categories/%E7%BD%91%E7%BB%9C/</loc>
+    <loc>https://blog.xinnnn.cn/categories/%E5%A5%BD%E8%BD%AF%E5%88%86%E4%BA%AB/</loc>
     <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/categories/%E5%A5%BD%E8%BD%AF%E5%88%86%E4%BA%AB/</loc>
+    <loc>https://blog.xinnnn.cn/categories/%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2020-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
