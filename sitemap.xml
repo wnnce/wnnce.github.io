@@ -107,13 +107,6 @@
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/categories/index-3.html</loc>
-    
-    <lastmod>2020-08-23</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.xinnnn.cn/categories/index-4.html</loc>
     
     <lastmod>2020-08-23</lastmod>
@@ -121,14 +114,14 @@
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/categories/index.html</loc>
+    <loc>https://blog.xinnnn.cn/categories/index-3.html</loc>
     
     <lastmod>2020-08-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/about/index.html</loc>
+    <loc>https://blog.xinnnn.cn/categories/index.html</loc>
     
     <lastmod>2020-08-23</lastmod>
     
@@ -143,6 +136,13 @@
   
   <url>
     <loc>https://blog.xinnnn.cn/categories/index-2.html</loc>
+    
+    <lastmod>2020-08-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.xinnnn.cn/about/index.html</loc>
     
     <lastmod>2020-08-23</lastmod>
     
@@ -247,14 +247,14 @@
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/2020/02/01/freenom/</loc>
+    <loc>https://blog.xinnnn.cn/2020/02/15/hexo%E5%8F%8C%E7%BA%BF%E9%83%A8%E7%BD%B2/</loc>
     
     <lastmod>2020-08-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/2020/02/15/hexo%E5%8F%8C%E7%BA%BF%E9%83%A8%E7%BD%B2/</loc>
+    <loc>https://blog.xinnnn.cn/2020/02/01/freenom/</loc>
     
     <lastmod>2020-08-23</lastmod>
     
@@ -275,14 +275,14 @@
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/2020/01/24/OLAINDEX/</loc>
+    <loc>https://blog.xinnnn.cn/2020/02/03/PotPlayer-Lav-Madvr/</loc>
     
     <lastmod>2020-08-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.xinnnn.cn/2020/02/03/PotPlayer-Lav-Madvr/</loc>
+    <loc>https://blog.xinnnn.cn/2020/01/24/OLAINDEX/</loc>
     
     <lastmod>2020-08-23</lastmod>
     
@@ -291,7 +291,7 @@
 
   <url>
     <loc>https://blog.xinnnn.cn/</loc>
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -299,77 +299,77 @@
   
   <url>
     <loc>https://blog.xinnnn.cn/tags/OneDrive/</loc>
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.xinnnn.cn/tags/%E5%BB%BA%E7%AB%99/</loc>
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.xinnnn.cn/tags/%E7%BF%BB%E5%A2%99/</loc>
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.xinnnn.cn/tags/%E7%BD%91%E7%BB%9C%E5%8A%A0%E9%80%9F/</loc>
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.xinnnn.cn/tags/Hexo/</loc>
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.xinnnn.cn/tags/MarkDown/</loc>
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.xinnnn.cn/tags/%E5%A5%BD%E8%BD%AF%E5%88%86%E4%BA%AB/</loc>
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.xinnnn.cn/tags/%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.xinnnn.cn/tags/%E5%8A%A8%E6%BC%AB/</loc>
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.xinnnn.cn/tags/%E7%BD%91%E6%98%93%E4%BA%91/</loc>
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.xinnnn.cn/tags/%E4%BA%91%E6%9D%91%E7%83%AD%E8%AF%84/</loc>
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -378,35 +378,35 @@
   
   <url>
     <loc>https://blog.xinnnn.cn/categories/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.xinnnn.cn/categories/%E5%A5%BD%E8%BD%AF%E5%88%86%E4%BA%AB/</loc>
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.xinnnn.cn/categories/%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.xinnnn.cn/categories/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.xinnnn.cn/categories/%E8%B5%84%E6%BA%90/</loc>
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
